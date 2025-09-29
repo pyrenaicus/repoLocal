@@ -15,7 +15,6 @@ changelog:
       labels:
         - Semver-Minor
         - enhancement
-    - title:
-        - Fixes
+    - title: Fixes
       labels:
         - bug fix
